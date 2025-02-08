@@ -1,5 +1,5 @@
 # 🧑🏼‍💻⚙️  **`Nyan Lynn Tun (plebnyan)`**
-**`Digital Nerd (Data Engineer, BI Developer) | SQL/Python/Spark`**
+**`Data Nerd (Data Engineer, BI Developer) | SQL, Python, Spark`**
 
 
 ## Who am I?
