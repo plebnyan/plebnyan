@@ -3,8 +3,8 @@
 
 
 ## Who am I?
-I'm a data engineer and life long learner who loves working with data and crafting efficient data infrastructures and tools. 
-I'm currently based in Bangkok and working on my Master Degree at Asuumption University
+I'm a data engineer and life long learner who loves working with data and crafting efficient data infrastructures and tools. <br>
+I'm currently based in Bangkok and working on my Master Degree at Asuumption University. <br>
 I will be posting my projects and learnings materials here.
 <!--
 **plebnyan/plebnyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
