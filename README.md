@@ -1,4 +1,4 @@
-# 🧑🏼‍💻⚙️ Nyan Lynn Tun
+# 🧑🏼‍💻⚙️  **Nyan Lynn Tun**
 
 **`Digital Nerd (Data Engineer, BI Developer) | SQL, Python, Spark`**
 <!--
