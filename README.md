@@ -1,8 +1,8 @@
-# 🧑🏼‍💻⚙️  **`Nyan Lynn Tun (plebnyan)`**
+# 🧑🏼‍💻 **`Nyan Lynn Tun (plebnyan)`**
 **`Data Nerd (Data Engineer, BI Developer) | SQL, Python, Spark`**
 
 
-## Who am I?
+## 🙋‍♂️ Who am I?
 I'm a data engineer and life long learner who loves working with data and crafting efficient data infrastructures and tools. <br>
 I'm currently based in Bangkok and working on my Master Degree at Asuumption University, <br>while working as a freelance data engineer/analyst on [Upwork](https://www.upwork.com/fl/~014816953739eca750?mp_source=share).<br>
 I will be posting my projects and learnings materials here.
